@@ -78,7 +78,7 @@ const Cart = ({ cart, setCart }) => {
 
             <div className="action-buttons">
               <button onClick={handleOrder} className="order-button">Оформить заказ</button>
-              <button onClick={handlePayment} className="pay-button">Оплатить</button>
+              
             </div>
           </div>
         </div>
